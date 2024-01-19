@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7487007-5903-43d9-8ffd-4c89fd60c6aa" name="Changes" comment="Initial setup" />
+    <list default="true" id="a7487007-5903-43d9-8ffd-4c89fd60c6aa" name="Changes" comment="Initial setup">
+      <change afterPath="$PROJECT_DIR$/src/uebungenTeilA/uebung01/SimpleCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +16,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2aj2kC3uJaqmUcu7kIPfSCct5sl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,10 +48,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/uebungenTeilB" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimpleCalc">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.HelloWorld" />
       <module name="swep1" />
@@ -57,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uebungenTeilA.uebung01.SimpleCalc" />
+      <module name="swep1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uebungenTeilA.uebung01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleCalc" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -78,7 +106,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704817807777</updated>
-      <workItem from="1704817809254" duration="498000" />
+      <workItem from="1704817809254" duration="585000" />
+      <workItem from="1704913532409" duration="34000" />
+      <workItem from="1705510838588" duration="413000" />
+      <workItem from="1705687676574" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Initial setup">
       <option name="closed" value="true" />
@@ -88,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704817871750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial setup">
+      <option name="closed" value="true" />
+      <created>1704818351875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704818351875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
