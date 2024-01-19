@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7487007-5903-43d9-8ffd-4c89fd60c6aa" name="Changes" comment="Initial setup">
-      <change afterPath="$PROJECT_DIR$/src/uebungenTeilA/uebung01/SimpleCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/HalloNatalie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloWorld.executor": "Run",
+    "Application.SimpleCalc.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -57,7 +57,20 @@
       <recent name="$PROJECT_DIR$/src/uebungenTeilB" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleCalc">
+  <component name="RunManager" selected="Application.HalloNatalie">
+    <configuration name="HalloNatalie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HalloNatalie" />
+      <module name="swep1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.HelloWorld" />
       <module name="swep1" />
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HalloNatalie" />
         <item itemvalue="Application.SimpleCalc" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -109,7 +123,7 @@
       <workItem from="1704817809254" duration="585000" />
       <workItem from="1704913532409" duration="34000" />
       <workItem from="1705510838588" duration="413000" />
-      <workItem from="1705687676574" duration="88000" />
+      <workItem from="1705687676574" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="Initial setup">
       <option name="closed" value="true" />
